@@ -5,6 +5,15 @@ This application allows users to generate QR codes from text or URLs and optiona
 
 ---
 
+## 🚀 Live Demo
+
+https://flask-qr-code-generator-lao0.onrender.com
+
+
+---
+
+
+
 ## ✨ Features
 
 - 🔗 Generate QR codes from text or URLs  
